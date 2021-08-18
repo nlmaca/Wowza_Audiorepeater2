@@ -1,3 +1,6 @@
+# Update august 18 2021
+This module is now deprecated. It doesn't work properly anymore. Wowza now also has the possibility to stream to Icecast2, so the module is not needed anymore. It served me well for about 7 years. 
+
 # Wowza_Audiorepeater2
 Original developed by Shamrock. This repository is just for securing the files and documentation
 
